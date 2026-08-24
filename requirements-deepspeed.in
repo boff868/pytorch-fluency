@@ -1,0 +1,3 @@
+# Install only inside a compatible accelerator environment.
+deepspeed
+

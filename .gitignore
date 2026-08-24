@@ -1,0 +1,16 @@
+# macOS / Python / Jupyter
+.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+
+# Training outputs and experiment logs
+artifacts/
+**/artifacts/
+wandb/
+logs/
+*.log
+*.pt
+*.pth
+*.ckpt

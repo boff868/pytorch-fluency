@@ -1,0 +1,42 @@
+text,label
+the tutorial explains every step clearly,1
+the experiment is carefully designed and reproducible,1
+the model produces useful and consistent results,1
+the documentation is concise and easy to follow,1
+the training curve improves steadily,1
+the code is modular readable and reliable,1
+the debugging checklist quickly found the problem,1
+the validation protocol is fair and convincing,1
+the implementation works exactly as expected,1
+the examples make the difficult idea understandable,1
+the recorded configuration makes the run reproducible,1
+the checkpoint restores training correctly,1
+the dataset split prevents information leakage,1
+the explanation connects theory with working code,1
+the metrics support the stated conclusion,1
+the baseline comparison is informative,1
+the interface is simple without hiding important details,1
+the results remain stable across repeated runs,1
+the report discusses limitations honestly,1
+the small project is excellent for learning,1
+the tutorial skips essential details and feels confusing,0
+the experiment cannot be reproduced from the description,0
+the model output is unstable and mostly incorrect,0
+the documentation is vague and difficult to use,0
+the loss becomes nan immediately,0
+the code mixes data models and logging in one file,0
+the debugging process changes random things without evidence,0
+the validation data leaks into training,0
+the implementation crashes before the first batch,0
+the examples hide every important operation,0
+the saved checkpoint cannot be loaded,0
+the reported metric does not match the code,0
+the labels are misaligned with the samples,0
+the explanation copies a template without understanding it,0
+the comparison changes several variables at once,0
+the training run has no configuration record,0
+the result depends on an undocumented manual step,0
+the report ignores obvious limitations,0
+the project is impossible to run offline after caching,0
+the conclusions are unsupported by the experiment,0
+

@@ -1,0 +1,14 @@
+text,label
+the instructions are practical and well organized,1
+the experiment log makes comparison straightforward,1
+the model can be saved and restored reliably,1
+the code separates data model and training responsibilities,1
+the evaluation result supports the hypothesis,1
+the lesson gives enough evidence to debug mistakes,1
+the instructions are incomplete and misleading,0
+the run cannot be connected to a code version,0
+the model fails to learn even one small batch,0
+the data pipeline silently changes the labels,0
+the report claims improvement without a baseline,0
+the checkpoint omits the state required to resume,0
+

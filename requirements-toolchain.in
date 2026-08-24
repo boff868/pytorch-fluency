@@ -1,0 +1,9 @@
+# Create a separate modern Python environment for the research toolchain.
+# Resolve and freeze exact versions only after the environment works.
+torch
+transformers
+datasets
+peft
+accelerate
+wandb
+
